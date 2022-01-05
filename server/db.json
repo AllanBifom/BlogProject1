@@ -1,0 +1,47 @@
+{
+  "blogs": [
+    {
+      "title": "nothing",
+      "author": "no one",
+      "id": 5
+    },
+    {
+      "title": "Someones Pikin",
+      "body": "Francis pikin",
+      "author": "Allan",
+      "id": 6
+    },
+    {
+      "title": "Someones Pikin",
+      "body": "my vhild is yours",
+      "author": "posi",
+      "id": 7
+    },
+    {
+      "title": "Johnny",
+      "body": "Hello I am Johnny",
+      "author": "AllanB",
+      "id": 8
+    },
+    {
+      "title": "Peace And Love",
+      "body": "The history of political blogging might usefully be divided into the periods pre- and post-Huffington. Before the millionaire socialite Arianna Huffington decided to get in on the act, bloggers operated in a spirit of underdog solidarity. They hated the mainstream media - and the feeling was mutual.\n\nAdvertisement\nBloggers saw themselves as gadflies, pricking the arrogance of established elites from their home computers, in their pyjamas, late into the night. So when, in 2005, Huffington decided to mobilise her fortune and media connections to create, from scratch, a flagship liberal blog she was roundly derided. Who, spluttered the original bloggerati, did she think she was?\n\nBut the pyjama purists were confounded. Arianna's money talked just as loudly online as off, and the Huffington Post quickly became one of the most influential and popular journals on the web. It recruited professional columnists and celebrity bloggers. It hoovered up traffic. Its launch was a landmark moment in the evolution of the web because it showed that many of the old rules still applied to the new medium: a bit of marketing savvy and deep pockets could go just as far as geek credibility, and get there faster.\n\nTo borrow the gold-rush simile beloved of web pioneers, Huffington's success made the first generation of bloggers look like two-bit prospectors panning for nuggets in shallow creeks before the big mining operations moved in. In the era pre-Huffington, big media companies ignored the web, or feared it; post-Huffington they started to treat it as just another marketplace, open to exploitation. Three years on, Rupert Murdoch owns MySpace, while newbie amateur bloggers have to gather traffic crumbs from under the table of the big-time publishers.",
+      "author": "Allan",
+      "id": 9
+    }
+  ],
+  "meetings": [
+    {
+      "topic": "handling racism",
+      "link": "https://zoom.us/",
+      "host": "Allan B",
+      "id": 3
+    },
+    {
+      "topic": "being better",
+      "link": "https://zoom.us/",
+      "host": "Steve",
+      "id": 4
+    }
+  ]
+}

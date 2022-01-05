@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #282c34;
 }
 
 .App-logo {
@@ -23,6 +24,27 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.dashboard-header {
+  background-color: #eec0b9;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.modified-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 1vmin);
+  color: white;
+  font-family: Zapfino;
+}
 
 .App-link {
   color: #61dafb;
@@ -35,4 +57,95 @@
   to {
     transform: rotate(360deg);
   }
+}
+.RegistrationPage {
+  box-shadow: 0 2px 5px #070300;
+  background-color: #eec0b9;
+  margin: 10px;
+  height: 850px;
+  width: 680px;
+  font-size: 0;
+  opacity: 0.9;
+}
+.Text {
+  color: aliceblue;
+  font-size: 25px;
+  font-family: Zapfino;
+}
+.InnerText {
+  color: aliceblue;
+  font-size: 15px;
+  font-family: Zapfino;
+}
+.AnotherInnerText {
+  color: darkmagenta;
+  font-size: 11px;
+  font-family: Zapfino;
+}
+.IMG1 {
+  height: 190px;
+  width: 220px;
+  box-shadow: 0 2px 5px #ccc;
+  border-radius: 50px;
+}
+.ButtonPosition {
+  bottom: 720;
+}
+.blog-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+.blog-preview:hover {
+  box-shadow: 0 2px 5px #070300;
+}
+.blog-preview a {
+  text-decoration: none;
+}
+.blog-preview h2 {
+  font-size: 20px;
+  color: aliceblue;
+  margin-bottom: 8px;
+}
+
+.blog-details h2 {
+  font-size: 20px;
+  color: aliceblue;
+  margin-bottom: 10px;
+}
+.blog-details div {
+  margin: 20px 0;
+}
+
+.DashboardPost {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: left;
+}
+.DashboardPost label {
+  text-align: center;
+  display: block;
+  color: aliceblue;
+}
+.DashboardPost h2 {
+  font-size: 20px;
+  color: aliceblue;
+  margin-bottom: 30px;
+}
+.DashboardPost input,
+.DashboardPost textarea {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.DashboardPost button {
+  background-color: #eec0b9;
+  color: aliceblue;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
 }
